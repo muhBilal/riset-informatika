@@ -1,9 +1,3 @@
-Siap, Bilal 👍
-Berikut versi **revisi penuh BAB III – Metodologi Penelitian** yang sudah **disesuaikan dengan metode Agile-Scrum** (bukan Waterfall), **berbasis implementasi langsung di Laravel + PostgreSQL**, dan tetap **mengacu pada konteks nyata di SIMRS Ngoerahsun WAC Bali**.
-Seluruh bagian sudah diubah agar konsisten dengan pendekatan iteratif Agile-Scrum tanpa kehilangan struktur ilmiah.
-
----
-
 # **BAB III – METODOLOGI PENELITIAN**
 
 ## **3.1 Pendekatan Penelitian**
@@ -179,5 +173,3 @@ Sistem Audit Trail dinilai berhasil apabila:
 5. Tim pengembang mampu melakukan iterasi peningkatan melalui setiap sprint.
 
 ---
-
-Apakah kamu mau aku bantu lanjutkan **BAB IV – Hasil dan Implementasi Agile-Scrum** biar nyambung dari struktur ini (misalnya dengan tabel backlog, pembagian sprint, dan hasil pengujian tiap sprint)?
